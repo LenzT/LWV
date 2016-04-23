@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listrow_details.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\listrow_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_work.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\row_work.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spritzen_fragment.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\spritzen_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\to_do_fragment.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\to_do_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_data.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\activity_edit_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_geber.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\fragment_edit_geber.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_date.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\activity_modify_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_item.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\calendar_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_geber.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\row_geber.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_data_dummy.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\fragment_edit_data_dummy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listrow_group.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\listrow_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_arbeiten.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\fragment_edit_arbeiten.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_spritzm.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\fragment_edit_spritzm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\layout\\punch_clock_fragment.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\layout\\punch_clock_fragment.xml"
+    }
+]

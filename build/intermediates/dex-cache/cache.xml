@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lenz\StudioProjects\LWV\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="35baac771e2ad20cf80132f019e7421c4c875861">
+        <dex dex="C:\Users\Lenz\StudioProjects\LWV\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_cd6df38546fbd984cce606cacf1ab1c9605b69bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenz\StudioProjects\LWV\app\libs\dropbox-sync-sdk-android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="27c6a602b8af65c4bd4741af2be12686d561d02c">
+        <dex dex="C:\Users\Lenz\StudioProjects\LWV\app\build\intermediates\pre-dexed\debug\dropbox-sync-sdk-android_dcb96525e913fb83e086fd1c9f8d6e1f1a0ba442.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenz\StudioProjects\LWV\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4c8528ce1b92e87823814da3ae53505f01e733b1">
+        <dex dex="C:\Users\Lenz\StudioProjects\LWV\app\build\intermediates\pre-dexed\debug\instant-run_574fcd6b4fbdf94916a11f3fc4f80202227b0bff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Lenz\StudioProjects\LWV\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_32fc9b510ef6688caec2eeb87f385da735fa540d.jar" />
+    </item>
+
+</items>

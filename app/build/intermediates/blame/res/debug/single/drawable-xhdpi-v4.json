@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_refresh.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_sort_by_size.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_sort_by_size.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_save.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_edit.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_edit_black.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_edit_black.png"
+    }
+]

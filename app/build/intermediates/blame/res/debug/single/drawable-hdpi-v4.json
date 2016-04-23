@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_background.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\item_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_background.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\list_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\remove_button_md.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\remove_button_md.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\header_background.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\header_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_edit_black.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\ic_action_edit_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_refresh.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_edit.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_save.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_background_focused.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\item_background_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_button_md.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\add_button_md.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_sort_by_size.png",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\drawable-hdpi\\ic_action_sort_by_size.png"
+    }
+]

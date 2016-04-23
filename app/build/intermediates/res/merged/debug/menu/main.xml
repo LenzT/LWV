@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="Refresh"/>
+    
+    <item
+        android:id="@+id/action_data"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_edit"
+        android:title="Stammdaten"/>
+    
+    <item
+        android:id="@+id/action_stat"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_sort_by_size"
+        android:title="Statistik"/>
+      
+</menu>

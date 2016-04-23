@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\menu\\modify_date.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\menu\\modify_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit_data.xml",
+        "source": "C:\\Users\\Lenz\\StudioProjects\\LWV\\app\\src\\main\\res\\menu\\edit_data.xml"
+    }
+]
